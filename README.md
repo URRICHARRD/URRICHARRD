@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I will take the Github Foundation Certification course to improve my resume!
+
 <!--
 **URRICHARRD/URRICHARRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
